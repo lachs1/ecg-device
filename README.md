@@ -1,2 +1,3 @@
-# ecg-device
-Electronics workshop course, Aalto University
+# EKG-projekti
+Elektroniikkapaja, Aalto-yliopisto
+
