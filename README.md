@@ -10,7 +10,7 @@ kiinnitettävien elektrodien avulla. Elektodeja voi olla kaksi tai usempia, muun
 rintaan, käsiin ja jalkoihin kiinnitettyinä. Elektrodeilla saadut signaalit prosessoidaan ja suodatetaan
 häiriöistä EKG-laitteessa. Sydämestä saatavan signaalin amplitudi on välillä 0.5 mV ja 5 mV
 ja sen taajuus välillä 0.05 - 100 Hz. Potilaan hengitys ja liike aiheuttavat piiriin matalilla taajuuksilla olevia
-häiriöitä. 
+häiriöitä.
 
 Tarkempi raportti laitteesta on tässä kansiossa.
 
@@ -21,4 +21,4 @@ Tarkempi raportti laitteesta on tässä kansiossa.
 ###### Kuva 2. Projektin piirikaavio
 
 ![projekti](project.jpeg)
-###### Kuva 3. Projektin lopullinen tila*
+###### Kuva 3. Projektin lopullinen tila
